@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tztaxnet/precache-manifest.ef23d9aacda199ea96c8ca39260aecd0.js"
+  "/tztaxnet/precache-manifest.400e0dd207693851e0644fbfe75d27f9.js"
 );
 
 self.addEventListener('message', (event) => {

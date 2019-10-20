@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tztaxnet/static/css/main.84a29c5a.chunk.css",
-    "main.js": "/tztaxnet/static/js/main.61478988.chunk.js",
-    "main.js.map": "/tztaxnet/static/js/main.61478988.chunk.js.map",
+    "main.js": "/tztaxnet/static/js/main.52385dcb.chunk.js",
+    "main.js.map": "/tztaxnet/static/js/main.52385dcb.chunk.js.map",
     "runtime-main.js": "/tztaxnet/static/js/runtime-main.c13bb31f.js",
     "runtime-main.js.map": "/tztaxnet/static/js/runtime-main.c13bb31f.js.map",
     "static/js/2.b9a99bac.chunk.js": "/tztaxnet/static/js/2.b9a99bac.chunk.js",
     "static/js/2.b9a99bac.chunk.js.map": "/tztaxnet/static/js/2.b9a99bac.chunk.js.map",
     "index.html": "/tztaxnet/index.html",
-    "precache-manifest.ef23d9aacda199ea96c8ca39260aecd0.js": "/tztaxnet/precache-manifest.ef23d9aacda199ea96c8ca39260aecd0.js",
+    "precache-manifest.400e0dd207693851e0644fbfe75d27f9.js": "/tztaxnet/precache-manifest.400e0dd207693851e0644fbfe75d27f9.js",
     "service-worker.js": "/tztaxnet/service-worker.js",
     "static/css/main.84a29c5a.chunk.css.map": "/tztaxnet/static/css/main.84a29c5a.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.c13bb31f.js",
     "static/js/2.b9a99bac.chunk.js",
     "static/css/main.84a29c5a.chunk.css",
-    "static/js/main.61478988.chunk.js"
+    "static/js/main.52385dcb.chunk.js"
   ]
 }
