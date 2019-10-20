@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tztaxnet/static/css/main.84a29c5a.chunk.css",
-    "main.js": "/tztaxnet/static/js/main.52385dcb.chunk.js",
-    "main.js.map": "/tztaxnet/static/js/main.52385dcb.chunk.js.map",
+    "main.css": "/tztaxnet/static/css/main.32f50ff6.chunk.css",
+    "main.js": "/tztaxnet/static/js/main.de234f20.chunk.js",
+    "main.js.map": "/tztaxnet/static/js/main.de234f20.chunk.js.map",
     "runtime-main.js": "/tztaxnet/static/js/runtime-main.c13bb31f.js",
     "runtime-main.js.map": "/tztaxnet/static/js/runtime-main.c13bb31f.js.map",
-    "static/js/2.b9a99bac.chunk.js": "/tztaxnet/static/js/2.b9a99bac.chunk.js",
-    "static/js/2.b9a99bac.chunk.js.map": "/tztaxnet/static/js/2.b9a99bac.chunk.js.map",
+    "static/js/2.38c01898.chunk.js": "/tztaxnet/static/js/2.38c01898.chunk.js",
+    "static/js/2.38c01898.chunk.js.map": "/tztaxnet/static/js/2.38c01898.chunk.js.map",
     "index.html": "/tztaxnet/index.html",
-    "precache-manifest.400e0dd207693851e0644fbfe75d27f9.js": "/tztaxnet/precache-manifest.400e0dd207693851e0644fbfe75d27f9.js",
+    "precache-manifest.920d42265a025b01a7182ac758d0c1bb.js": "/tztaxnet/precache-manifest.920d42265a025b01a7182ac758d0c1bb.js",
     "service-worker.js": "/tztaxnet/service-worker.js",
-    "static/css/main.84a29c5a.chunk.css.map": "/tztaxnet/static/css/main.84a29c5a.chunk.css.map"
+    "static/css/main.32f50ff6.chunk.css.map": "/tztaxnet/static/css/main.32f50ff6.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.c13bb31f.js",
-    "static/js/2.b9a99bac.chunk.js",
-    "static/css/main.84a29c5a.chunk.css",
-    "static/js/main.52385dcb.chunk.js"
+    "static/js/2.38c01898.chunk.js",
+    "static/css/main.32f50ff6.chunk.css",
+    "static/js/main.de234f20.chunk.js"
   ]
 }
