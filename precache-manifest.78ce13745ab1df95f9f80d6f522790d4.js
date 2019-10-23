@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95cb82ea96ae40003fde618bd8fa4d80",
+    "revision": "a1ce9b369b6d3f881ced69727e965566",
     "url": "/tztaxnet/index.html"
   },
   {
-    "revision": "cbb19e9874f5167207a2",
+    "revision": "444a11f888939096944f",
     "url": "/tztaxnet/static/css/main.32f50ff6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tztaxnet/static/js/2.38c01898.chunk.js"
   },
   {
-    "revision": "cbb19e9874f5167207a2",
-    "url": "/tztaxnet/static/js/main.de234f20.chunk.js"
+    "revision": "444a11f888939096944f",
+    "url": "/tztaxnet/static/js/main.112893db.chunk.js"
   },
   {
     "revision": "13809d5d62500f069080",
